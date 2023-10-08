@@ -4,6 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A passionate MERN STACK | Java Full Stack developer
 ---------------------------------------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrakashYashwanth&label=Profile%20views&color=0e75b6&style=flat" alt="PrakashYashwanth" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=PrakashYashwanth" alt="PrakashYashwanth" /></a> </p>
+
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://github.com/PrakashYashwanth/myPortFolio)
 * ✉️  You can contact me at [msspyashwanth9@gmail.com](mailto:msspyashwanth9@gmail.com)
@@ -34,8 +38,6 @@ src="https://img.shields.io/twitter/follow/msspyashwanth?logo=twitter&style=for-
 <a href="http://www.github.com/PrakashYashwanth"><img src="https://github-readme-stats.vercel.app/api?username=PrakashYashwanth&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PrakashYashwanth's GitHub stats" /></a>
 
 <a href="http://www.github.com/PrakashYashwanth"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PrakashYashwanth&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/PrakashYashwanth"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=PrakashYashwanth&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/PrakashYashwanth" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrakashYashwanth&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
